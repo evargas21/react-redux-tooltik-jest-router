@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <FormPage /> must match snapshot 1`] = `
+<div>
+  <div>
+    <h1>
+      Form Employee
+    </h1>
+    <h2
+      class="option-form"
+    >
+      Add employee
+    </h2>
+    <form>
+      <div
+        class="form"
+      >
+        <div>
+          <label
+            for="document"
+          >
+            Document
+          </label>
+          <input
+            aria-autocomplete="none"
+            class="custom-input"
+            id="document"
+            name="document"
+            placeholder="Document"
+            required=""
+            type="number"
+            value=""
+          />
+        </div>
+        <div>
+          <label
+            for="fullName"
+          >
+            Full name
+          </label>
+          <input
+            aria-autocomplete="none"
+            class="custom-input"
+            id="fullName"
+            name="fullName"
+            placeholder="Full name"
+            required=""
+            type="text"
+            value=""
+          />
+        </div>
+        <div>
+          <label
+            for="contactNumber"
+          >
+            Contact number
+          </label>
+          <input
+            aria-autocomplete="none"
+            class="custom-input"
+            id="contactNumber"
+            name="contactNumber"
+            placeholder="Contact number"
+            required=""
+            type="text"
+            value=""
+          />
+        </div>
+        <div>
+          <label
+            for="position"
+          >
+            Position
+          </label>
+          <input
+            aria-autocomplete="none"
+            class="custom-input"
+            id="position"
+            name="position"
+            placeholder="Position"
+            required=""
+            type="text"
+            value=""
+          />
+        </div>
+        <div>
+          <label
+            for="dateBirth"
+          >
+            Date birth
+          </label>
+          <input
+            aria-autocomplete="none"
+            class="custom-input"
+            id="dateBirth"
+            name="dateBirth"
+            placeholder="Date birth"
+            required=""
+            type="date"
+            value=""
+          />
+        </div>
+        <div>
+          <label
+            for="address"
+          >
+            Address
+          </label>
+          <input
+            aria-autocomplete="none"
+            class="custom-input"
+            id="address"
+            name="address"
+            placeholder="Address"
+            required=""
+            type="text"
+            value=""
+          />
+        </div>
+        <div>
+          <label
+            for="email"
+          >
+            Email
+          </label>
+          <input
+            aria-autocomplete="none"
+            class="custom-input"
+            id="email"
+            name="email"
+            placeholder="Email"
+            required=""
+            type="email"
+            value=""
+          />
+        </div>
+        <div>
+          <label
+            for="salary"
+          >
+            Salary
+          </label>
+          <input
+            aria-autocomplete="none"
+            class="custom-input"
+            id="salary"
+            name="salary"
+            placeholder="Salary"
+            required=""
+            type="number"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="button-container"
+      >
+        <button
+          class="custom-button"
+        >
+          Add employee
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;

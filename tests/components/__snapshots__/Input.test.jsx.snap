@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <Input /> must match snapshot 1`] = `
+<div>
+  <div>
+    <label
+      for="test"
+    />
+    <input
+      aria-autocomplete="none"
+      class="custom-input"
+      id="test"
+      name="test"
+      required=""
+      value="test"
+    />
+  </div>
+</div>
+`;

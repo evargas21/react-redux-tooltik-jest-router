@@ -20,7 +20,6 @@ const Home = () => {
     const { data: employees } = useSearch(search, data);
 
     const addNewPersonnel = () => {
-        console.log("AddNewPersonnel")
         navigation('/form');
     };
 
